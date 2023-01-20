@@ -1,22 +1,27 @@
+#bot_discord
 import discord
-import responses
-#import os
+import responses_discord
 
-#References
-#for server
-#https://www.youtube.com/watch?v=SPTfmiYiuok&ab_channel=freeCodeCamp.org
 
-async def send_message(message, user_message, is_private):
-    try:
-        response = responses.get_response(user_message)
-        await message.author.send(response) if is_private else await message.channel.send(response)
+#main2
+import random_responses
+import json
+import re
 
-    except Exception as e:
-        print(e)
+# Load JSON data
+def load_json(file):
+    with open(file) as bot_responses:
+        print(f"Loaded '{file}' successfully!")
+        return json.load(bot_responses)
 
+
+# Store JSON data
+response_data = load_json("responses.json")
+
+#BOT
 
 def run_discord_bot():
-    TOKEN = 'MTAzMTgyODc5OTcyMzE1OTU1Mw.GuDYw4.NgEcEiljxvIUcDlr3WmD0X7TV5TByT_ob769QM'
+    TOKEN = 'MTA2NjAyMjY4Mjg2MjMwMTI2NQ.GKQJL9._nSysqqRcWP2UTkNHLHojYw9TQv6IDEpzs8leg'
     intents = discord.Intents.default()
     intents.messages = True
     #intents.message_content = True
@@ -37,14 +42,18 @@ def run_discord_bot():
 
         print(f'{username} said: "{user_message}" ({channel})')
 
-        #if message.content.startswith('$commands'):
-            #await message.channel.send('This is a list of commands that I can say: ')
-
         if user_message[0] == '?':
             user_message = user_message[1:]
             await send_message(message, user_message, is_private=True)
         else:
             await send_message(message, user_message, is_private=False)
 
-    client.run(TOKEN)
-    #client.run(os.getenv('TOKEN'))
+
+while True:
+    #our merge
+    user_message = input("You: ")
+    print("Bot:", get_response(user_input))
+
+    #video chatbot
+    #user_input = input("You: ")
+    #print("Bot:", get_response(user_input))
