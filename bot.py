@@ -37,8 +37,8 @@ def run_discord_bot():
 
         print(f'{username} said: "{user_message}" ({channel})')
 
-        if message.content.startswith('$commands'):
-            await message.channel.send('This is a list of commands that I can say: ')
+        #if message.content.startswith('$commands'):
+            #await message.channel.send('This is a list of commands that I can say: ')
 
         if user_message[0] == '?':
             user_message = user_message[1:]
