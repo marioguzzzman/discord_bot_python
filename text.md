@@ -50,4 +50,18 @@ RG: I think Rita meant this image: https://www.oniris.art/en/exhibitions/37-vera
 user: 25 square , vera molnár 25 carrés
 RG: Does this look familiar? https://www.oniris.art/en/artists/32-vera-molnar/works/5761-vera-molnar-25-carres-ref.-f-1989/  She has more artwork with a similar logic behind! Why don't you research yourself a bit on this topic? 
 
-
+Random insipration:
+- Niclas Roy: My little piece of Privacy. Here is the link: https://www.niklasroy.com/project/88/my-little-piece-of-privacy 
+- Sofia Crespo: This Jelly does not exist. Here is the link: thisjellyfishdoesnotexist.com also! Following her on instagram can lead you to a so many beautiful AI generated creatures! @sofiacrespo
+- Zach Lieberman: He is great! I would suggest to follow him on instagram @zach.lieberman and watch his talk: https://youtu.be/bmztlO9_Wvo
+- Daniel Shiffman: Coding train. This is an amazing place to learn! https://thecodingtrain.com/
+- Chris Sugrue: Augmented hand series. https://csugrue.com/augmented-hand-series/
+- Marshmallow Laser Feast: In the eyes of the animal - Link here: https://www.dezeen.com/2015/11/02/in-the-eyes-of-the-animal-virtual-reality-installation-marshmallow-laser-feast-abandon-normal-devices-festival-england/
+- Simone Giertz: Why you should make useless things - Talk here: https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things?language=en
+- Daniel Rozin: How This Guy Makes Amazing Mechanical Mirrors - Video here: https://www.youtube.com/watch?v=kV8v2GKC8WA
+- The furby organ: https://www.youtube.com/watch?v=GYLBjScgb7o
+- Memo Akten: https://www.memo.tv/
+- This is a really cool podcast! Artist and hackers: https://www.artistsandhackers.org/
+- How about some fashion tech by Zsofi Levai? https://zsolevai.com/portfolio/power-of-proximity/
+- Podcast by Creative Code Budapest: https://open.spotify.com/show/6HBMsjsO8Z9AeAx8LuVoUq?si=890c65de6543444b
+- Zoltan Szalay is doing really pretty graphics using processing: https://www.instagram.com/insgraphizm/
